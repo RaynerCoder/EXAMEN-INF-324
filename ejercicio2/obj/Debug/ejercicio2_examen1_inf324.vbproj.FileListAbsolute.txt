@@ -1,0 +1,9 @@
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\bin\ejercicio2_examen1_inf324.dll.config
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\bin\ejercicio2_examen1_inf324.dll
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\bin\ejercicio2_examen1_inf324.pdb
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\bin\ejercicio2_examen1_inf324.xml
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\obj\Debug\ejercicio2_examen1_inf324.Resources.resources
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\obj\Debug\ejercicio2_examen1_inf324.vbproj.GenerateResource.Cache
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\obj\Debug\ejercicio2_examen1_inf324.dll
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\obj\Debug\ejercicio2_examen1_inf324.xml
+c:\users\alcides\documents\visual studio 2013\Projects\ejercicio2_examen1_inf324\obj\Debug\ejercicio2_examen1_inf324.pdb
