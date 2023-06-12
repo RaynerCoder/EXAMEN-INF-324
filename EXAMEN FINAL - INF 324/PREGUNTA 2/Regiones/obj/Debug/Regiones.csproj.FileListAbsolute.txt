@@ -1,0 +1,18 @@
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.exe.config
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.exe
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.pdb
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.AssemblyReference.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.SuggestedBindingRedirects.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.Form1.resources
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.Properties.Resources.resources
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.GenerateResource.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.CoreCompileInputs.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.exe
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.pdb
+C:\Users\alcides\Desktop\EXAMEN FINAL - INF 324\PREGUNTA 2\Regiones\bin\Debug\Regiones.exe.config
+C:\Users\alcides\Desktop\EXAMEN FINAL - INF 324\PREGUNTA 2\Regiones\obj\Debug\Regiones.exe
+C:\Users\alcides\Desktop\EXAMEN FINAL - INF 324\PREGUNTA 2\Regiones\obj\Debug\Regiones.pdb
+C:\Users\alcides\Desktop\EXAMEN FINAL - INF 324\PREGUNTA 2\Regiones\obj\Debug\Regiones.csprojResolveAssemblyReference.cache
+C:\Users\alcides\Desktop\EXAMEN FINAL - INF 324\PREGUNTA 2\Regiones\obj\Debug\Regiones.Form1.resources
+C:\Users\alcides\Desktop\EXAMEN FINAL - INF 324\PREGUNTA 2\Regiones\obj\Debug\Regiones.Properties.Resources.resources
+C:\Users\alcides\Desktop\EXAMEN FINAL - INF 324\PREGUNTA 2\Regiones\obj\Debug\Regiones.csproj.GenerateResource.Cache
